@@ -114,3 +114,82 @@ This example demonstrates how IAM can align with an organisation's business proc
 **Next Step:**  
 Proceed to design tailored IAM solutions for TechCorp.
 
+
+## 5 TechCorp's Enterprise Requirements
+
+TechCorp operates in over 100 countries and employs more than 150,000 people. As part of its ongoing digital transformation journey, TechCorp seeks to enhance its cybersecurity by improving IAM solutions.
+
+---
+
+### Enhancing User Lifecycle Management
+
+TechCorp faces challenges in managing user access during the onboarding and offboarding processes. They need an IAM solution that:  
+
+- Ensures quick and secure provisioning and de-provisioning of user accounts and access rights.  
+- Provides **automation** to reduce manual efforts and minimise human errors during user lifecycle management.  
+
+---
+
+### Strengthening Access Control Mechanisms
+
+TechCorp aims to fortify its access control mechanisms to safeguard critical data and systems. They require an IAM solution that:  
+
+- Supports **Role-Based Access Control (RBAC)** to assign permissions based on user roles.  
+- Enforces the **Least Privilege Principle** to ensure that users only have the necessary access for their roles.  
+- Enables **Multi-Factor Authentication (MFA)** to secure login processes and access to sensitive resources.  
+
+---
+
+### Additional Considerations
+
+TechCorp's digital transformation involves the deployment of new software systems, cloud services, and data repositories. As a result, managing user access and security has become increasingly complex. Their goals include:  
+
+- Ensuring that the right employees have appropriate access to systems and data.  
+- Managing this access efficiently to maintain security and compliance.  
+
+---
+
+### Business Objectives
+
+TechCorp believes that streamlining user lifecycle management and enhancing access control mechanisms are critical steps in achieving their broader business objectives, which include:  
+
+✅ **Maintaining a Competitive Edge:** Enabling seamless and secure digital operations to support continued innovation.  
+✅ **Enhancing Security:** Protecting sensitive data and systems from unauthorised access.  
+✅ **Improving Operational Efficiency:** Reducing administrative overhead by automating manual processes.  
+
+---
+
+### Task for the IAM Developer
+
+As an IAM developer, your task is to design IAM solutions that directly address these two focus areas. Your solutions should align with TechCorp's broader business objectives of maintaining a competitive edge in the technology industry while ensuring the security and efficiency of their digital operations.
+
+
+## 6 Designing IAM Solutions for TechCorp
+
+Building upon the insights gathered from the readiness assessment, it's now time to design IAM solutions tailored to TechCorp Enterprises' specific requirements. Your task is to create detailed IAM solution designs in a PDF or Word document that directly address the two focus areas: **enhancing user lifecycle management** and **strengthening access control mechanisms**.
+
+### Specifically, your document should include:
+
+### 1. IAM Solution Designs
+- Provide a comprehensive outline of your IAM solutions for both user lifecycle management and access control mechanisms.
+- Explain how these solutions will be implemented and the technologies that will be utilised.
+
+### 2. Alignment with Business Processes
+- Describe how your IAM solutions align with TechCorp's existing business processes.
+- Highlight how they will streamline operations and contribute to increased efficiency.
+
+### 3. Alignment with Business Objectives
+- Discuss how your solutions support TechCorp's broader business objectives.
+- Explain how they will enhance security, improve the user experience, and contribute to TechCorp's competitive edge in the technology industry.
+
+### 4. Rationale
+- Provide a clear rationale for each aspect of your IAM solutions.
+- Explain why you have chosen specific approaches and technologies.
+
+---
+
+Ensure that your document is well-structured, professionally presented, and contains all the necessary details to clearly convey your proposed IAM solutions and their alignment with TechCorp's business processes and objectives.
+
+
+[TechCorp IAM Solutions.pdf](https://github.com/user-attachments/files/19479688/TechCorp.IAM.Solutions.pdf)
+
