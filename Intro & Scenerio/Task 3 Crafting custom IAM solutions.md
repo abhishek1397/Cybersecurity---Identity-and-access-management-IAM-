@@ -119,7 +119,6 @@ Proceed to design tailored IAM solutions for TechCorp.
 
 TechCorp operates in over 100 countries and employs more than 150,000 people. As part of its ongoing digital transformation journey, TechCorp seeks to enhance its cybersecurity by improving IAM solutions.
 
----
 
 ### Enhancing User Lifecycle Management
 
@@ -128,7 +127,6 @@ TechCorp faces challenges in managing user access during the onboarding and offb
 - Ensures quick and secure provisioning and de-provisioning of user accounts and access rights.  
 - Provides **automation** to reduce manual efforts and minimise human errors during user lifecycle management.  
 
----
 
 ### Strengthening Access Control Mechanisms
 
@@ -138,7 +136,6 @@ TechCorp aims to fortify its access control mechanisms to safeguard critical dat
 - Enforces the **Least Privilege Principle** to ensure that users only have the necessary access for their roles.  
 - Enables **Multi-Factor Authentication (MFA)** to secure login processes and access to sensitive resources.  
 
----
 
 ### Additional Considerations
 
@@ -147,7 +144,6 @@ TechCorp's digital transformation involves the deployment of new software system
 - Ensuring that the right employees have appropriate access to systems and data.  
 - Managing this access efficiently to maintain security and compliance.  
 
----
 
 ### Business Objectives
 
@@ -192,4 +188,8 @@ Ensure that your document is well-structured, professionally presented, and cont
 
 
 [TechCorp IAM Solutions.pdf](https://github.com/user-attachments/files/19479688/TechCorp.IAM.Solutions.pdf)
+
+![3](https://github.com/user-attachments/assets/3b0c361c-23e6-4be9-a92e-d46c50d45119)
+
+
 
