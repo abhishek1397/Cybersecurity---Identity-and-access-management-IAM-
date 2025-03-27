@@ -17,7 +17,7 @@ Program Scenario
     </td>
     <td>
       <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-        <img alt="Static Badge" src="https://img.shields.io/badge/_You_?logoColor=8A2BE2"> <br>
+        <img alt="Static Badge" src="https://img.shields.io/badge/You-grey?style=for-the-badge" height= 25px> <br>
         <strong>Abhishek</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <em style="text-align: right; color: #9fa5b5;">IAM developer</em>
       </div>
@@ -39,6 +39,7 @@ Program Scenario
     </td>
     <td>
       <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+        <img alt="Static Badge" src="https://img.shields.io/badge/Manager-grey?style=for-the-badge" height= 25px> <br>
         <strong >Priya</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <em style="padding-left: 20px; color: #9fa5b5;">IAM architect</em>
       </div>
@@ -54,6 +55,7 @@ Program Scenario
     </td>
     <td>
       <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+        <img alt="Static Badge" src="https://img.shields.io/badge/Team%20Member-grey?style=for-the-badge" height= 25px> <br>
         <strong>Rajesh</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <em style="text-align: right; color: #9fa5b5;">IAM business analyst</em>
       </div>
@@ -68,6 +70,7 @@ Program Scenario
     </td>
     <td>
       <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+        <img alt="Static Badge" src="https://img.shields.io/badge/Team%20Member-grey?style=for-the-badge" height= 25px> <br>
         <strong>Ankit</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <em style="text-align: right; color: #9fa5b5;">IAM engineer</em>
       </div>
